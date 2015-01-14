@@ -1,0 +1,2 @@
+hamming:
+http://exercism.io/submissions/0e3f6b8723024090830b9e55b0119c20
